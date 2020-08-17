@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react, javascript, bootstrap**
 
-- 📫 How to reach me **s.sinha2701@gmail.com**
+- 📫 How to reach me **webdevsoumyadeepsinha@gmail.com**
 
 - ⚡ Fun fact **I Love MongoDB but my main focus is on php**
 

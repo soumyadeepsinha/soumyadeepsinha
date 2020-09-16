@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadeepsinha&show_icons=true" alt="soumyadeepsinha" /></p>
 
 <p align="center">
-<a href="https://codepen.io/@soumyadeepsinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@soumyadeepsinha" height="30" width="30" /></a>
+<a href="https://codepen.io/soumyadeepsinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@soumyadeepsinha" height="30" width="30" /></a>
 <a href="https://dev.to/soumyadeepsinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="soumyadeepsinha" height="30" width="30" /></a>
 <a href="https://twitter.com/soumyadeep_iam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soumyadeep_iam" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sinha-soumyadeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="soumyadeep-sinha" height="30" width="30" /></a>
